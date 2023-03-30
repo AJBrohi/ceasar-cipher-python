@@ -2,6 +2,9 @@
 
 This program uses the Caesar cipher technique to encrypt and decrypt messages.
 
+![Ceaser Cipher](https://user-images.githubusercontent.com/29802859/228839015-dc7af8d9-e636-44b9-a7e6-81943633fabc.gif)
+
+
 ## Features
 
 This program was developed using Python programming language and it uses the following features of Python:
